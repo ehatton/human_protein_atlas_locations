@@ -1,0 +1,8 @@
+name: human_protein_atlas_locations
+channels:
+  - defaults
+dependencies:
+  - python>=3.6
+  - jupyterlab
+  - matplotlib
+  - pandas
